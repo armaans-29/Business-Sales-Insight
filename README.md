@@ -27,7 +27,7 @@ This project focuses on analyzing customer sales data to uncover trends, pattern
 
 ## Dashboard Preview
 
-![Business Sales Insight Dashboard](REPLACE_WITH_IMAGE_LINK)
+![Business Sales Insight Dashboard](https://github.com/armaans-29/Business-Sales-Insight/blob/1ab3ff65b5154412d8b88141c8fa5b06541b7815/Sales_Insights.png)
 
 ## Objective
 
