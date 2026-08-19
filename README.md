@@ -45,14 +45,14 @@ flowchart TD
     D --> E[Dashboard Design and Visualization]
     E --> F[Interactive Business Insights]
 
-    style A fill:#f2f2f2,stroke:#333,stroke-width:1px
-    style B fill:#ffe0cc,stroke:#333,stroke-width:1px
-    style C fill:#ffe0cc,stroke:#333,stroke-width:1px
-    style D fill:#d6e4ff,stroke:#333,stroke-width:1px
-    style E fill:#d6e4ff,stroke:#333,stroke-width:1px
-    style F fill:#d9f2d9,stroke:#333,stroke-width:1px
+    classDef default color:#000000,font-weight:bold,stroke-width:2px;
+    style A fill:#e0e0e0,stroke:#000000,color:#000000
+    style B fill:#ffb366,stroke:#000000,color:#000000
+    style C fill:#ffb366,stroke:#000000,color:#000000
+    style D fill:#6699ff,stroke:#000000,color:#000000
+    style E fill:#6699ff,stroke:#000000,color:#000000
+    style F fill:#66cc66,stroke:#000000,color:#000000
 ```
-
 ## Process
 
 ### 1. Data Analysis with SQL
@@ -119,3 +119,8 @@ flowchart LR
 ## Conclusion
 
 This project demonstrates how SQL and Power BI can be combined to turn raw sales data into meaningful, easy-to-understand business insights, supporting better decision-making through clear and interactive visualizations.
+
+
+
+
+
